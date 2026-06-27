@@ -1,0 +1,7 @@
+1. Get the application URL by running:
+   kubectl get ingress
+
+2. Add to /etc/hosts:
+   127.0.0.1 demo-app.local
+
+3. Then visit: http://demo-app.local
